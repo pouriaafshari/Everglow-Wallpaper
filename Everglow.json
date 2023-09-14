@@ -1,0 +1,26 @@
+{
+    "Members": [
+        {"id": 0, "Name": "Everglow", "Cover": "https://pouriaafshari.github.io/Everglow-Wallpaper/1.jpg"},
+        {"id": 1, "Name": "Aisha", "Cover": "https://pouriaafshari.github.io/Everglow-Wallpaper/2.jpg"},
+        {"id": 2, "Name": "Onda", "Cover": "https://pouriaafshari.github.io/Everglow-Wallpaper/3.jpg"},
+        {"id": 3, "Name": "Yirein", "Cover": "https://pouriaafshari.github.io/Everglow-Wallpaper/4.jpg"},
+        {"id": 4, "Name": "Mia", "Cover": "https://pouriaafshari.github.io/Everglow-Wallpaper/5.jpg"},
+        {"id": 5, "Name": "E:U", "Cover": "https://pouriaafshari.github.io/Everglow-Wallpaper/6.jpg"},
+        {"id": 6, "Name": "Sihyeon", "Cover": "https://pouriaafshari.github.io/Everglow-Wallpaper/7.jpg"}
+    ],
+    "Wallpapers": [
+        [
+            {"id": "1", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/1.jpg"},
+            {"id": "2", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/2.jpg"},
+            {"id": "3", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/3.jpg"},
+            {"id": "4", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/4.jpg"}
+        ],
+        [
+            {"id": "1", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/1.jpg"},
+            {"id": "2", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/2.jpg"},
+            {"id": "3", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/3.jpg"},
+            {"id": "4", "url": "https://pouriaafshari.github.io/NewJeans-image/haerin/4.jpg"}
+        ]
+    ]
+}
+  
